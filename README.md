@@ -22,4 +22,4 @@ About Myself
 -  **C++** / **Python** /**Verilog** user,loving mathematics , expect good mathematics and professional abilities
 - Mathematically, focus on high-dimensional Fourier transform and Sobolev space (why use the human brain to think about these problems instead of the computer to complete the calculations?
 - Love games. Steam player, especially rhythm games(LR2 and SDVX)
-- Lazy who like to write code but don’t like uploading
+- like to write code but lazy to uploading
