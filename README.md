@@ -21,5 +21,5 @@ About Myself
 - Researching on **3D  algorithms/Hardware Embedded Systems**
 -  **C++** / **Python** /**Verilog** user,loving mathematics , expect good mathematics and professional abilities
 - Mathematically, focus on high-dimensional Fourier transform and Sobolev space (why use the human brain to think about these problems instead of the computer to complete the calculations?
-- Love games. Steam player, especially rhythm games([Beatoraja](https://github.com/exch-bms2/beatoraja) and [unnamed-sdvx-clone](https://github.com/guusw/unnamed-sdvx-clone))
+- Love games. Steam player, especially rhythm games([beatoraja](https://github.com/exch-bms2/beatoraja) and [unnamed-sdvx-clone](https://github.com/guusw/unnamed-sdvx-clone))
 - Like to write code but lazy to uploading
