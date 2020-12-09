@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wz18207&show_icons=true&hide_border=true&theme=default"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wz18207&show_icons=true&hide_border=true&theme=dark"/>
 
 About Myself
 - Bachelor student at University of Essex
