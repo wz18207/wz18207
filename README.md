@@ -21,7 +21,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wz18207&show_icons=true&hide_border=true&theme=dark"/>
 
 About Myself
-- PhD in Northwest University
+- ~~PhD in Northwest University~~
 - Researching on **3D  algorithms/Hardware Embedded Systems**
 -  **C++** / **Python** /**Verilog** user,loving mathematics , expect good mathematics and professional abilities
 - Mathematically, focus on high-dimensional Fourier transform and Sobolev space (why use the human brain to think about these problems instead of the computer to complete the calculations?
