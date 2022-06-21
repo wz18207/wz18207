@@ -5,6 +5,10 @@
   Blog
   </a>
   ·
+  <a href="https://discord.com/users/700617590103474178">
+  Discord Account
+  </a>
+  .
   <a href="https://twitter.com/Frank09557884?s=09">
   Twitter
   </a>
@@ -21,6 +25,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wz18207&show_icons=true&hide_border=true&theme=dark"/>
 
 About Myself
+- NEVER NEVER NEVER GIVE UP!!!!! I WILL COME BACK AT 2023/2/23.
 - PhD in Northwest University
 - Researching on **3D  algorithms/Hardware Embedded Systems**
 -  **C++** / **Python** /**Verilog** user,loving mathematics , expect good mathematics and professional abilities
