@@ -26,7 +26,6 @@
 
 About Myself
 - NEVER NEVER NEVER GIVE UP!!!!! I WILL COME BACK AT 2023/2/23.
-- PhD in Northwest University
 - Researching on **3D  algorithms/Hardware Embedded Systems**
 -  **C++** / **Python** /**Verilog** user,loving mathematics , expect good mathematics and professional abilities
 - Mathematically, focus on high-dimensional Fourier transform and Sobolev space (why use the human brain to think about these problems instead of the computer to complete the calculations?
