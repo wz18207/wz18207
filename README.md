@@ -25,7 +25,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wz18207&show_icons=true&hide_border=true&theme=dark"/>
 
 About Myself
-- Preparing Master Entrance Examination right now.
+- ~~Preparing Master Entrance Examination right now.~~ PhD now.
 - 2018-2022 Bachlor in Northwest University.
 - 2022-2023 Perparing Master Entrance Examination.
 - 2024- today PhD in Northwest University.
