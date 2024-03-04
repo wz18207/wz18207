@@ -28,6 +28,7 @@ About Myself
 - Preparing Master Entrance Examination right now.
 - 2018-2022 Bachlor in Northwest University.
 - 2022-2023 Perparing Master Entrance Examination.
+- 2024- today PhD in Northwest University.
 - Researching on **3D  algorithms/Hardware Embedded Systems**
 -  **C++** / **Python** /**Verilog** user,loving mathematics , expect good mathematics and professional abilities
 - Mathematically, focus on high-dimensional Fourier transform and Sobolev space (why use the human brain to think about these problems instead of the computer to complete the calculations?
