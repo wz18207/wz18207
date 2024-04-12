@@ -23,6 +23,7 @@
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wz18207&show_icons=true&hide_border=true&theme=dark"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=wz18207&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 About Myself
 - ~~Preparing Master Entrance Examination right now.~~ PhD now.
