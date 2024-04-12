@@ -23,7 +23,7 @@
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wz18207&show_icons=true&hide_border=true&theme=dark"/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=wz18207&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 About Myself
 - ~~Preparing Master Entrance Examination right now.~~ PhD now.
@@ -35,3 +35,5 @@ About Myself
 - Mathematically, focus on high-dimensional Fourier transform and Sobolev space (why use the human brain to think about these problems instead of the computer to complete the calculations?
 - Love games. Steam player, especially rhythm games([Beatmania IIDX](https://remywiki.com/Beatmania_IIDX_Information) and [pop'n music](https://remywiki.com/Pop%27n_music_Information))
 - Due to conditions, only a small part of the code can public here.
+
+
