@@ -5,14 +5,6 @@
   Blog
   </a>
   ·
-  <a href="https://discord.com/users/700617590103474178">
-  Discord Account
-  </a>
-  .
-  <a href="https://twitter.com/Frank09557884?s=09">
-  Twitter
-  </a>
-  ·
   <a href="https://space.bilibili.com/381291245">
   Bilibili
   </a>
@@ -33,7 +25,7 @@ About Myself
 - Researching on **3D  algorithms/Hardware Embedded Systems**
 -  **C++** / **Python** /**Verilog** user,loving mathematics , expect good mathematics and professional abilities
 - Mathematically, focus on high-dimensional Fourier transform and Sobolev space (why use the human brain to think about these problems instead of the computer to complete the calculations?
-- Love games. Steam player, especially rhythm games([Beatmania IIDX](https://remywiki.com/Beatmania_IIDX_Information) and [pop'n music](https://remywiki.com/Pop%27n_music_Information))
+- Love games. Steam player, especially rhythm games([Beatmania IIDX](https://remywiki.com/Beatmania_IIDX_Information) , [pop'n music](https://remywiki.com/Pop%27n_music_Information) and [Gitadora](https://remywiki.com/GITADORA_Information))
 - Due to conditions, only a small part of the code can public here.
 
 
