@@ -18,13 +18,13 @@
 
 
 About Myself
-- ~~Preparing Master Entrance Examination right now.~~ PhD now.
+- ~~Preparing Master Entrance Examination right now.~~ 
 - 2018-2022 Bachlor in Northwest University.
-- 2022-2023 Perparing Master Entrance Examination.
-- 2024- today PhD in Northwest University.
-- Researching on **3D  algorithms/Hardware Embedded Systems**
--  **C++** / **Python** /**Verilog** user,loving mathematics , expect good mathematics and professional abilities
-- Mathematically, focus on high-dimensional Fourier transform and Sobolev space (why use the human brain to think about these problems instead of the computer to complete the calculations?
+- 2022-2023 ~~LOSER~~.
+- 2024- PhD in Northwest University.
+- Researching on **~~3D  algorithms/~~Hardware Embedded System**
+-  **C++** / **VHDL** /**Verilog** user,loving mathematics , expect good mathematics and professional abilities
+- Mathematically, focus on high-dimensional Fourier transform and Sobolev space.
 - Love games. Steam player, especially rhythm games([Beatmania IIDX](https://remywiki.com/Beatmania_IIDX_Information) , [pop'n music](https://remywiki.com/Pop%27n_music_Information) and [Gitadora](https://remywiki.com/GITADORA_Information))
 - Due to conditions, only a small part of the code can public here.
 
