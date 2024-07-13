@@ -20,7 +20,7 @@
 About Myself
 - ~~Preparing Master Entrance Examination right now.~~ 
 - 2018-2022 Bachlor in Northwest University.
-- 2022-2023 ~~LOSER~~.
+- 2022-2023 ~~Please don't ask me what I've been done and where am I~~.
 - 2024- PhD in Northwest University.
 - Researching on **~~3D  algorithms/~~Hardware Embedded System**
 -  **C++** / **VHDL** /**Verilog** user,loving mathematics , expect good mathematics and professional abilities
