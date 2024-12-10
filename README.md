@@ -22,7 +22,7 @@ About Myself
 - 2018-2022 Bachlor in Northwest University.
 - 2022-2023 ~~Please don't ask me what I've been done and where am I~~.
 - 2024- PhD in Northwest University.
-- Researching on **~~3D  algorithms/~~Hardware Embedded System**
+- Researching on **3D  algorithms/Hardware Embedded System**
 -  **C++** / **VHDL** /**Verilog** user,loving mathematics , expect good mathematics and professional abilities
 - Mathematically, focus on high-dimensional Fourier transform and Sobolev space.
 - Love games. NS player, especially rhythm games([Beatmania IIDX](https://remywiki.com/Beatmania_IIDX_Information) , [pop'n music](https://remywiki.com/Pop%27n_music_Information) and [Gitadora](https://remywiki.com/GITADORA_Information))
