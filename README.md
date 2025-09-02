@@ -9,7 +9,7 @@
   Bilibili
   </a>
   ·
-  <a href="https://webui.xepher.fun/static/assets/profile/Qp-ro.png">
+  <a href="https://image.xepher.fun/assets/profile/Qp-ro.png">
   IIDX QPRO
   </a>
 </p>
